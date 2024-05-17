@@ -4,7 +4,7 @@ body {
    margin: 0;
    padding: 0;
    line-height: 1.6;
-   background-image: url('path/to/your/image.jpg');
+   background-image: url('assets/background-image.jpeg');
     background-size: cover;
     background-position: center;
 }
