@@ -11,4 +11,4 @@
   - I would like to meet new people and learn from experienced developers if I have the opportunity to! <br>
   - I am a person who loves to find easier solutions for difficult problems.
 </p>
-[![roadmap.sh](https://roadmap.sh/card/wide/67dd80c20bcc62b83d6182cc?variant=dark)](https://roadmap.sh)
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/67dd80c20bcc62b83d6182cc?variant=dark" alt="roadmap.sh"/></a>
