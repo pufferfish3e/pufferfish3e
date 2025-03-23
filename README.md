@@ -8,7 +8,7 @@
 </h2>
 <p>
   - I am proficient in python, and able to do several intermediate projects, which you can take a look in my profile.<br>
-  - I am currently learning C++ and HTML/CSS. <br>
   - I would like to meet new people and learn from experienced developers if I have the opportunity to! <br>
   - I am a person who loves to find easier solutions for difficult problems.
 </p>
+[![roadmap.sh](https://roadmap.sh/card/wide/67dd80c20bcc62b83d6182cc?variant=dark)](https://roadmap.sh)
