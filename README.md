@@ -64,15 +64,6 @@
 
 ###
 
-<img
-  height="150"
-  src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZrdDhmY25tYTU4MWhrMGhqMGpidXBuODJkZ29ycDM4dmFkams0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif"
-  alt="gif image"
-/>
-
-
-###
-
 ![snake gif](https://github.com/pufferfish3e/pufferfish3e/blob/output/snake.svg)
 
 
