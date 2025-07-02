@@ -68,6 +68,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/pufferfish3e/pufferfish3e/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/pufferfish3e/pufferfish3e/blob/output/snake.svg)
+
 
 ###
