@@ -1,17 +1,17 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Kendrick</h1>
-<h3 align="center">A passionate developer from Singapore!</h3>
+<h1 align="left">Hi, I'm Kendrick <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3%"></h1>
+<p align="left">Welcome to my cheeky playground where I mess around with anything and everything I can get my hands on.</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pufferfish3e.pufferfish3e&left_color=black&right_color=darkred&left_text=Profile%20Views"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=pufferfish3e&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true" height="200" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pufferfish3e&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=true" height="200" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pufferfish3e&theme=nightowl&radius=14&area=true&hide_title=false&hide_border=true&custom_title=My%20Contributions" height="250" alt="activity-graph graph"  />
@@ -19,13 +19,20 @@
 
 ###
 
-<br clear="both">
+<h2>About Me: </h2>
+<p>Hi, I'm Kendrick — a curious builder who enjoys working with code, creativity, and chaos. I'm especially interested in AI, machine learning, and systems that do weird things on purpose. When I'm not experimenting with neural networks or building glitchy side projects, I’m playing minecraft, badminton or just — sleeping.
 
-<h3 align="center">Skills and Technologies:</h3>
+I enjoy fast-paced learning, late-night coding, and making tools that feel more like toys than apps. Whether it’s a vibe coding project, a brainrot game, or a CLI tool I’ll forget I made in a week — I build because I love the process.</p>
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<h3 align="left">Skills and Technologies:</h3>
+
+###
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
@@ -53,11 +60,11 @@
 
 ###
 
-<h3 align="center">Socials:</h3>
+<h3 align="left">Socials:</h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
@@ -72,6 +79,6 @@
 
 ###
 
-<p align="center">
+<p align="left">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
