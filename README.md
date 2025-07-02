@@ -1,6 +1,9 @@
 <h2 align="left">Hi 👋! My name is Kendrick and I'm a Web Developer, from Singapore.</h2>
 
 ###
+<p>I love creating innovative solutions and exploring new technologies that can make a difference.</p>
+
+###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=pufferfish3e.pufferfish3e&left_color=black&right_color=darkred&left_text=Profile%20Views"  />
