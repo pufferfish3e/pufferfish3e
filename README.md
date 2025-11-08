@@ -23,9 +23,9 @@
 <h2>About Me: </h2>
 <p>Hi, I'm Kendrick — a curious builder who enjoys working with code, creativity, and chaos. I'm especially interested in AI, machine learning, and systems that do weird things on purpose. When I'm not experimenting with neural networks or building glitchy side projects, I’m playing minecraft, badminton or just — sleeping.
 
-I enjoy fast-paced learning, late-night coding, and making tools that feel more like toys than apps. Whether it’s a vibe coding project, a brainrot game, or a CLI tool I’ll forget I made in a week — I build because I love the process.</p>
+I enjoy fast-paced learning, late-night coding, and making tools that feel more like toys than apps. Whether it’s a vibe coding project, a brainrot game, or a CLI tool I’ll forget I made in a week — I build because I love the process.
 
-<p>⭐ Thanks for visiting! Leave a star if you enjoyed exploring my work!</p>
+⭐ Thanks for visiting! Leave a star if you enjoyed exploring my work!</p>
 ###
 
 <br clear="both">
