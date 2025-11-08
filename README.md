@@ -25,6 +25,7 @@
 
 I enjoy fast-paced learning, late-night coding, and making tools that feel more like toys than apps. Whether it’s a vibe coding project, a brainrot game, or a CLI tool I’ll forget I made in a week — I build because I love the process.</p>
 
+<p>⭐ Thanks for visiting! Leave a star if you enjoyed exploring my work!</p>
 ###
 
 <br clear="both">
