@@ -39,14 +39,14 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-<a href="https://github.com/pufferfish3e/Luminent"><img src="assets/projects/Luminent.svg?v=2" width="49%" alt="Luminent"/></a>
-<a href="https://github.com/pufferfish3e/vibefy-mood-app"><img src="assets/projects/vibefy-mood-app.svg?v=2" width="49%" alt="vibefy-mood-app"/></a>
+<a href="https://github.com/pufferfish3e/Luminent"><img src="assets/projects/Luminent.svg?v=3" width="49%" alt="Luminent"/></a>
+<a href="https://github.com/pufferfish3e/vibefy-mood-app"><img src="assets/projects/vibefy-mood-app.svg?v=3" width="49%" alt="vibefy-mood-app"/></a>
 
-<a href="https://github.com/pufferfish3e/BibleGuessr"><img src="assets/projects/BibleGuessr.svg?v=2" width="49%" alt="BibleGuessr"/></a>
-<a href="https://github.com/pufferfish3e/practiceme"><img src="assets/projects/practiceme.svg?v=2" width="49%" alt="practiceme"/></a>
+<a href="https://github.com/pufferfish3e/BibleGuessr"><img src="assets/projects/BibleGuessr.svg?v=3" width="49%" alt="BibleGuessr"/></a>
+<a href="https://github.com/pufferfish3e/practiceme"><img src="assets/projects/practiceme.svg?v=3" width="49%" alt="practiceme"/></a>
 
-<a href="https://github.com/pufferfish3e/pomodoro"><img src="assets/projects/pomodoro.svg?v=2" width="49%" alt="pomodoro"/></a>
-<a href="https://github.com/pufferfish3e/data-cleaning-workflow"><img src="assets/projects/data-cleaning-workflow.svg?v=2" width="49%" alt="data-cleaning-workflow"/></a>
+<a href="https://github.com/pufferfish3e/pomodoro"><img src="assets/projects/pomodoro.svg?v=3" width="49%" alt="pomodoro"/></a>
+<a href="https://github.com/pufferfish3e/data-cleaning-workflow"><img src="assets/projects/data-cleaning-workflow.svg?v=3" width="49%" alt="data-cleaning-workflow"/></a>
 
 </div>
 
@@ -56,8 +56,8 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-<a href="https://github.com/pufferfish3e"><img src="https://github-readme-stats.vercel.app/api?username=pufferfish3e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4b4b&icon_color=ff4b4b&text_color=9f9f9f&ring_color=ff4b4b" width="49%" alt="github stats"/></a>
-<a href="https://github.com/pufferfish3e?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pufferfish3e&layout=compact&hide_border=true&bg_color=00000000&title_color=ff4b4b&text_color=9f9f9f" width="41%" alt="most used languages"/></a>
+<a href="https://github.com/pufferfish3e"><img src="assets/stats.svg?v=1" width="49%" alt="github activity: 557 commits, 89 pull requests, 18 repositories, 8 followers"/></a>
+<a href="https://github.com/pufferfish3e?tab=repositories"><img src="assets/langs.svg?v=1" width="49%" alt="most used languages: TypeScript 36%, Python 29%, Jupyter Notebook 21%, HTML 7%, CSS 7%"/></a>
 
 <br/><br/>
 

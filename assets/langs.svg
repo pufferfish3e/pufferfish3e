@@ -1,9 +1,9 @@
 <svg width="720" height="400" viewBox="0 0 720 400" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="-apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Arial,sans-serif">
   <defs>
-    <radialGradient id="rg1" cx="0.5" cy="1.0" r="0.65">
+    <radialGradient id="rg1" cx="0.12" cy="0.9" r="0.65">
       <stop offset="0" stop-color="#ff2d2d" stop-opacity="0.55"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/>
     </radialGradient>
-    <radialGradient id="rg2" cx="0.95" cy="0.05" r="0.5">
+    <radialGradient id="rg2" cx="0.9" cy="0.1" r="0.5">
       <stop offset="0" stop-color="#8a0f0f" stop-opacity="0.6"/><stop offset="1" stop-color="#8a0f0f" stop-opacity="0"/>
     </radialGradient>
     <linearGradient id="sheen" x1="0" y1="0" x2="0.6" y2="1">
@@ -20,8 +20,8 @@
       <rect x="4" y="4" width="712" height="392" rx="40" fill="#0a0a0d"/>
       <rect x="4" y="4" width="712" height="392" rx="40" fill="url(#rg1)"/>
       <rect x="4" y="4" width="712" height="392" rx="40" fill="url(#rg2)"/>
-      <path d="M-40 340 Q 200 390 420 340 T 780 390" stroke="#ff2d2d" stroke-width="60" stroke-opacity="0.18" fill="none"/>
-      <circle cx="660" cy="140" r="70" fill="#ff2d2d" fill-opacity="0.12"/>
+      <path d="M-40 335 Q 200 385 420 335 T 780 385" stroke="#ff2d2d" stroke-width="60" stroke-opacity="0.18" fill="none"/>
+      <circle cx="615" cy="95" r="70" fill="#ff2d2d" fill-opacity="0.12"/>
     </g>
   </defs>
 
@@ -33,20 +33,24 @@
   <rect x="4" y="4" width="712" height="392" rx="40" fill="url(#sheen)"/>
   <rect x="4.5" y="4.5" width="711" height="391" rx="39.5" fill="none" stroke="#ffffff" stroke-opacity="0.22"/>
   <path d="M64 4.5 H 580" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1" stroke-linecap="round"/>
-  <text x="64" y="106" font-size="42" font-weight="700" fill="#f5f5f7" letter-spacing="0.2">practiceme</text>
-  <text x="64" y="150" font-size="17.5" fill="#a1a1a6">Automation tool that grinds through</text>
-  <text x="64" y="176" font-size="17.5" fill="#a1a1a6">PracticeMe exercises so I don't have to.</text>
-<g>
-      <rect x="64" y="210" width="83" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
-      <text x="106" y="232" font-size="14" fill="#d1d1d6" text-anchor="middle">Python</text>
-    </g>
-<g>
-      <rect x="159.2" y="210" width="116" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
-      <text x="217" y="232" font-size="14" fill="#d1d1d6" text-anchor="middle">Automation</text>
-    </g>
+  <text x="64" y="96" font-size="34" font-weight="700" fill="#f5f5f7">Most used languages</text>
+  <rect x="63" y="149" width="594" height="14" rx="7" fill="#ffffff" fill-opacity="0.08"/>
+  <g clip-path="url(#barclip)">
+    <rect x="64.0" y="150" width="211.4" height="12" fill="#3178c6"/>
+    <rect x="275.4" y="150" width="169.1" height="12" fill="#3572A5"/>
+    <rect x="444.6" y="150" width="126.9" height="12" fill="#DA5B0B"/>
+    <rect x="571.4" y="150" width="42.3" height="12" fill="#e34c26"/>
+    <rect x="613.7" y="150" width="42.3" height="12" fill="#663399"/>
+  </g>
+  <defs><clipPath id="barclip"><rect x="64" y="150" width="592" height="12" rx="6"/></clipPath></defs>
+  <circle cx="70" cy="211" r="6" fill="#3178c6"/><text x="86" y="216" font-size="15" fill="#d1d1d6">TypeScript <tspan fill="#8e8e93">36%</tspan></text>
+  <circle cx="270" cy="211" r="6" fill="#3572A5"/><text x="286" y="216" font-size="15" fill="#d1d1d6">Python <tspan fill="#8e8e93">29%</tspan></text>
+  <circle cx="470" cy="211" r="6" fill="#DA5B0B"/><text x="486" y="216" font-size="15" fill="#d1d1d6">Jupyter Notebook <tspan fill="#8e8e93">21%</tspan></text>
+  <circle cx="70" cy="251" r="6" fill="#e34c26"/><text x="86" y="256" font-size="15" fill="#d1d1d6">HTML <tspan fill="#8e8e93">7%</tspan></text>
+  <circle cx="270" cy="251" r="6" fill="#663399"/><text x="286" y="256" font-size="15" fill="#d1d1d6">CSS <tspan fill="#8e8e93">7%</tspan></text>
   <path d="M64 302 H 656" stroke="#ffffff" stroke-opacity="0.1"/>
-  <text x="64" y="344" font-size="14" fill="#8e8e93">pufferfish3e/practiceme</text>
-  <rect x="516" y="320" width="140" height="38" rx="19" fill="url(#btn)" stroke="#ff4b4b" stroke-opacity="0.45"/>
-  <text x="576" y="344" font-size="14.5" fill="#ffb3b3" text-anchor="middle">View Project</text>
+  <text x="64" y="344" font-size="14" fill="#8e8e93">14 original repositories</text>
+  <rect x="486" y="320" width="170" height="38" rx="19" fill="url(#btn)" stroke="#ff4b4b" stroke-opacity="0.45"/>
+  <text x="561" y="344" font-size="14.5" fill="#ffb3b3" text-anchor="middle">Browse Repos</text>
   <text x="640" y="344" font-size="15" fill="#ff6b6b" text-anchor="middle">&#8594;</text>
 </svg>
