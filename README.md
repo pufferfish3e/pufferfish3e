@@ -12,7 +12,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="92%" alt=""/></div>
 
-## about
+## About
 
 <img align="right" src="assets/data-analysis.gif" width="300" alt="animated illustration of a person working through analytics dashboards"/>
 
@@ -31,7 +31,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center"><img src="assets/divider.svg" width="92%" alt=""/></div>
 
-## stack
+## Tech Stack
 
 <div align="center">
 
@@ -39,7 +39,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 </div>
 
-## things i've built
+## Projects
 
 <div align="center">
 
@@ -53,7 +53,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center"><img src="assets/divider.svg" width="92%" alt=""/></div>
 
-## github, in numbers
+## GitHub Stats
 
 <div align="center">
 
@@ -74,7 +74,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-## let's talk
+## Let's Talk!
 
 Open to internships, collaborations and good conversations.
 
