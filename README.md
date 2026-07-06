@@ -39,14 +39,14 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-<a href="https://github.com/pufferfish3e/Luminent"><img src="assets/projects/Luminent.svg" width="49%" alt="Luminent"/></a>
-<a href="https://github.com/pufferfish3e/vibefy-mood-app"><img src="assets/projects/vibefy-mood-app.svg" width="49%" alt="vibefy-mood-app"/></a>
+<a href="https://github.com/pufferfish3e/Luminent"><img src="assets/projects/Luminent.svg?v=2" width="49%" alt="Luminent"/></a>
+<a href="https://github.com/pufferfish3e/vibefy-mood-app"><img src="assets/projects/vibefy-mood-app.svg?v=2" width="49%" alt="vibefy-mood-app"/></a>
 
-<a href="https://github.com/pufferfish3e/BibleGuessr"><img src="assets/projects/BibleGuessr.svg" width="49%" alt="BibleGuessr"/></a>
-<a href="https://github.com/pufferfish3e/practiceme"><img src="assets/projects/practiceme.svg" width="49%" alt="practiceme"/></a>
+<a href="https://github.com/pufferfish3e/BibleGuessr"><img src="assets/projects/BibleGuessr.svg?v=2" width="49%" alt="BibleGuessr"/></a>
+<a href="https://github.com/pufferfish3e/practiceme"><img src="assets/projects/practiceme.svg?v=2" width="49%" alt="practiceme"/></a>
 
-<a href="https://github.com/pufferfish3e/pomodoro"><img src="assets/projects/pomodoro.svg" width="49%" alt="pomodoro"/></a>
-<a href="https://github.com/pufferfish3e/data-cleaning-workflow"><img src="assets/projects/data-cleaning-workflow.svg" width="49%" alt="data-cleaning-workflow"/></a>
+<a href="https://github.com/pufferfish3e/pomodoro"><img src="assets/projects/pomodoro.svg?v=2" width="49%" alt="pomodoro"/></a>
+<a href="https://github.com/pufferfish3e/data-cleaning-workflow"><img src="assets/projects/data-cleaning-workflow.svg?v=2" width="49%" alt="data-cleaning-workflow"/></a>
 
 </div>
 

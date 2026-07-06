@@ -1,22 +1,65 @@
-<svg width="560" height="150" viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+<svg width="720" height="420" viewBox="0 0 720 420" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="-apple-system,'SF Pro Display','Segoe UI','Helvetica Neue',Arial,sans-serif">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#160b0e"/><stop offset="1" stop-color="#200f14"/>
+    <radialGradient id="rg1" cx="0.9" cy="0.15" r="0.65">
+      <stop offset="0" stop-color="#ff2d2d" stop-opacity="0.55"/><stop offset="1" stop-color="#ff2d2d" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="rg2" cx="0.15" cy="0.9" r="0.5">
+      <stop offset="0" stop-color="#8a0f0f" stop-opacity="0.6"/><stop offset="1" stop-color="#8a0f0f" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0.6" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.10"/>
+      <stop offset="0.45" stop-color="#ffffff" stop-opacity="0.02"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.045"/>
     </linearGradient>
+    <linearGradient id="btn" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff4b4b" stop-opacity="0.28"/><stop offset="1" stop-color="#c1121f" stop-opacity="0.22"/>
+    </linearGradient>
+    <filter id="soften" x="-40%" y="-40%" width="180%" height="180%"><feGaussianBlur stdDeviation="22"/></filter>
+    <clipPath id="panel"><rect x="28" y="24" width="664" height="372" rx="36"/></clipPath>
+    <g id="wp">
+      <rect width="720" height="420" fill="#0a0a0d"/>
+      <rect width="720" height="420" fill="url(#rg1)"/>
+      <rect width="720" height="420" fill="url(#rg2)"/>
+      <path d="M-40 360 Q 200 300 420 360 T 780 300" stroke="#ff2d2d" stroke-width="60" stroke-opacity="0.14" fill="none"/>
+    </g>
   </defs>
-  <rect x="1" y="1" width="558" height="148" rx="12" fill="url(#g)" stroke="#3a1b21" stroke-width="1.5"/>
-  <rect x="1" y="1" width="558" height="148" rx="12" fill="none" stroke="#ff4b4b" stroke-width="1.5" stroke-dasharray="60 1356" opacity="0.9">
-    <animate attributeName="stroke-dashoffset" values="0;-1416" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <circle cx="36" cy="38" r="9" fill="none" stroke="#ff4b4b" stroke-width="2"/>
-  <g stroke="#ff4b4b" stroke-width="1.6" stroke-linecap="round">
-    <line x1="36" y1="25" x2="36" y2="21"/><line x1="36" y1="51" x2="36" y2="55"/>
-    <line x1="23" y1="38" x2="19" y2="38"/><line x1="49" y1="38" x2="53" y2="38"/>
-  </g>
-  <text x="58" y="44" font-size="20" font-weight="bold" fill="#f5ede9">BibleGuessr</text>
-  <text x="34" y="82" font-size="14" fill="#c2aaa6">A guessing game prototype that quizzes you</text>
-  <text x="34" y="102" font-size="14" fill="#c2aaa6">on verses across the Bible.</text>
-  <circle cx="40" cy="126" r="5" fill="#3572A5"/>
-  <text x="52" y="131" font-size="13" fill="#8f7a77">Python</text>
-  <text x="526" y="131" font-size="13" fill="#ff4b4b" text-anchor="end">view →</text>
+
+  <use href="#wp"/>
+  <!-- floating glass bubbles -->
+  <circle cx="615" cy="140" r="16" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.25"/>
+  <circle cx="610" cy="134" r="5" fill="#ffffff" fill-opacity="0.5"/>
+  <circle cx="655" cy="90" r="9" fill="#ff4b4b" fill-opacity="0.18" stroke="#ffffff" stroke-opacity="0.2"/>
+
+  <!-- glass panel -->
+  <g clip-path="url(#panel)"><use href="#wp" filter="url(#soften)" opacity="0.95"/></g>
+  <rect x="28" y="24" width="664" height="372" rx="36" fill="url(#sheen)"/>
+  <rect x="28.5" y="24.5" width="663" height="371" rx="35.5" fill="none" stroke="#ffffff" stroke-opacity="0.22"/>
+  <path d="M80 24.5 H 560" stroke="#ffffff" stroke-opacity="0.3" stroke-width="1" stroke-linecap="round"/>
+
+  <!-- language pill -->
+  <rect x="68" y="62" width="96" height="34" rx="17" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.16"/>
+  <circle cx="88" cy="79" r="5" fill="#3572A5"/>
+  <text x="102" y="84" font-size="13.5" fill="#d1d1d6" letter-spacing="0.5">PYTHON</text>
+
+  <!-- title + description -->
+  <text x="68" y="164" font-size="42" font-weight="700" fill="#f5f5f7" letter-spacing="0.2">BibleGuessr</text>
+  <text x="68" y="204" font-size="17.5" fill="#a1a1a6">A guessing game prototype that quizzes you</text>
+  <text x="68" y="230" font-size="17.5" fill="#a1a1a6">on verses across the Bible.</text>
+
+  <!-- tech chips -->
+<g>
+      <rect x="68" y="262" width="83" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+      <text x="110" y="284" font-size="14" fill="#d1d1d6" text-anchor="middle">Python</text>
+    </g>
+<g>
+      <rect x="163.2" y="262" width="67" height="34" rx="17" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.14"/>
+      <text x="197" y="284" font-size="14" fill="#d1d1d6" text-anchor="middle">Game</text>
+    </g>
+
+  <!-- footer -->
+  <path d="M68 328 H 652" stroke="#ffffff" stroke-opacity="0.1"/>
+  <text x="68" y="366" font-size="14" fill="#8e8e93">pufferfish3e/BibleGuessr</text>
+  <rect x="512" y="342" width="140" height="38" rx="19" fill="url(#btn)" stroke="#ff4b4b" stroke-opacity="0.45"/>
+  <text x="572" y="366" font-size="14.5" fill="#ffb3b3" text-anchor="middle">View Project</text>
+  <text x="636" y="366" font-size="15" fill="#ff6b6b" text-anchor="middle">&#8594;</text>
 </svg>
