@@ -59,10 +59,9 @@
   </g>
 
   <!-- text -->
-  <text x="70" y="118" font-size="54" font-weight="bold" fill="#f5ede9" letter-spacing="2">KENDRICK</text>
-  <text x="72" y="158" font-size="19" fill="#ff4b4b" letter-spacing="6">CODE ✦ BUILD ✦ REPEAT</text>
-  <text x="72" y="196" font-size="14" fill="#b09a95" letter-spacing="2">applied ai &amp; analytics — singapore</text>
-  <rect x="70" y="70" width="240" height="3" fill="#ff4b4b">
-    <animate attributeName="width" values="0;240" dur="1.6s" fill="freeze"/>
+  <text x="70" y="122" font-size="54" font-weight="bold" fill="#f5ede9" letter-spacing="2">Kendrick</text>
+  <text x="72" y="162" font-size="17" fill="#b09a95" letter-spacing="1">applied ai &amp; analytics, singapore polytechnic</text>
+  <rect x="70" y="74" width="120" height="3" fill="#ff4b4b">
+    <animate attributeName="width" values="0;120" dur="1.6s" fill="freeze"/>
   </rect>
 </svg>

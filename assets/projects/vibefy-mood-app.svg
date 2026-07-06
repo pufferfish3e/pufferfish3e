@@ -14,8 +14,8 @@
     <line x1="23" y1="38" x2="19" y2="38"/><line x1="49" y1="38" x2="53" y2="38"/>
   </g>
   <text x="58" y="44" font-size="20" font-weight="bold" fill="#f5ede9">vibefy-mood-app</text>
-  <text x="34" y="82" font-size="14" fill="#c2aaa6">Mood-based music companion —</text>
-  <text x="34" y="102" font-size="14" fill="#c2aaa6">matching how you feel to what you hear.</text>
+  <text x="34" y="82" font-size="14" fill="#c2aaa6">Mood-based music companion that matches</text>
+  <text x="34" y="102" font-size="14" fill="#c2aaa6">how you feel to what you hear.</text>
   <circle cx="40" cy="126" r="5" fill="#3572A5"/>
   <text x="52" y="131" font-size="13" fill="#8f7a77">Python</text>
   <text x="526" y="131" font-size="13" fill="#ff4b4b" text-anchor="end">view →</text>
