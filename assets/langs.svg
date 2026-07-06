@@ -40,15 +40,15 @@
   <rect x="63" y="149" width="594" height="14" rx="7" fill="#ffffff" fill-opacity="0.08"/>
   <clipPath id="barclip"><rect x="64" y="150" width="592" height="12" rx="6"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect x="64.0" y="150" width="211.4" height="12" fill="#3178c6"/>
-    <rect x="275.4" y="150" width="169.1" height="12" fill="#3572A5"/>
-    <rect x="444.6" y="150" width="126.9" height="12" fill="#DA5B0B"/>
-    <rect x="571.4" y="150" width="42.3" height="12" fill="#e34c26"/>
-    <rect x="613.7" y="150" width="42.3" height="12" fill="#663399"/>
+    <rect x="64.0" y="150" width="197.3" height="12" fill="#3178c6"/>
+    <rect x="261.3" y="150" width="197.3" height="12" fill="#3572A5"/>
+    <rect x="458.7" y="150" width="118.4" height="12" fill="#DA5B0B"/>
+    <rect x="577.1" y="150" width="39.5" height="12" fill="#e34c26"/>
+    <rect x="616.5" y="150" width="39.5" height="12" fill="#663399"/>
   </g>
-  <circle cx="70" cy="211" r="6" fill="#3178c6"/><text x="86" y="216" font-size="15" fill="#d1d1d6">TypeScript <tspan fill="#8e8e93">36%</tspan></text>
-  <circle cx="270" cy="211" r="6" fill="#3572A5"/><text x="286" y="216" font-size="15" fill="#d1d1d6">Python <tspan fill="#8e8e93">29%</tspan></text>
-  <circle cx="470" cy="211" r="6" fill="#DA5B0B"/><text x="486" y="216" font-size="15" fill="#d1d1d6">Jupyter Notebook <tspan fill="#8e8e93">21%</tspan></text>
+  <circle cx="70" cy="211" r="6" fill="#3178c6"/><text x="86" y="216" font-size="15" fill="#d1d1d6">TypeScript <tspan fill="#8e8e93">33%</tspan></text>
+  <circle cx="270" cy="211" r="6" fill="#3572A5"/><text x="286" y="216" font-size="15" fill="#d1d1d6">Python <tspan fill="#8e8e93">33%</tspan></text>
+  <circle cx="470" cy="211" r="6" fill="#DA5B0B"/><text x="486" y="216" font-size="15" fill="#d1d1d6">Jupyter Notebook <tspan fill="#8e8e93">20%</tspan></text>
   <circle cx="70" cy="251" r="6" fill="#e34c26"/><text x="86" y="256" font-size="15" fill="#d1d1d6">HTML <tspan fill="#8e8e93">7%</tspan></text>
   <circle cx="270" cy="251" r="6" fill="#663399"/><text x="286" y="256" font-size="15" fill="#d1d1d6">CSS <tspan fill="#8e8e93">7%</tspan></text>
   <path d="M64 302 H 656" stroke="#ffffff" stroke-opacity="0.1"/>
