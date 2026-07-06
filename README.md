@@ -4,7 +4,7 @@
 
 [**pufferfish.vercel.app**](https://pufferfish.vercel.app)
 
-<a href="https://www.linkedin.com/in/mambuwu"><img src="assets/icons/linkedin.svg" width="44" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kendrickslamat"><img src="assets/icons/linkedin.svg" width="44" alt="LinkedIn"/></a>&nbsp;
 <a href="https://t.me/mambuwu"><img src="assets/icons/telegram.svg" width="44" alt="Telegram"/></a>&nbsp;
 <a href="https://instagram.com/mambuwu"><img src="assets/icons/instagram.svg" width="44" alt="Instagram"/></a>
 
@@ -78,7 +78,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 Open to internships, collaborations and good conversations.
 
-[**Say hi on LinkedIn**](https://www.linkedin.com/in/mambuwu)
+[**Say hi on LinkedIn**](https://www.linkedin.com/in/kendrickslamat)
 
 <br/>
 
