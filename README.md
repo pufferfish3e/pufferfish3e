@@ -1,8 +1,12 @@
 <div align="center">
 
-<img src="assets/banner.svg" width="100%" alt="Kendrick, applied AI and analytics, Singapore Polytechnic"/>
+<img src="assets/banner.svg?v=2" width="100%" alt="Kendrick, applied AI and analytics, Singapore Polytechnic"/>
 
-[**pufferfish.vercel.app**](https://pufferfish.vercel.app) &nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/mambuwu) &nbsp;&nbsp; [Telegram](https://t.me/mambuwu) &nbsp;&nbsp; [Instagram](https://instagram.com/mambuwu)
+[**pufferfish.vercel.app**](https://pufferfish.vercel.app)
+
+<a href="https://www.linkedin.com/in/mambuwu"><img src="assets/icons/linkedin.svg" width="44" alt="LinkedIn"/></a>&nbsp;
+<a href="https://t.me/mambuwu"><img src="assets/icons/telegram.svg" width="44" alt="Telegram"/></a>&nbsp;
+<a href="https://instagram.com/mambuwu"><img src="assets/icons/instagram.svg" width="44" alt="Instagram"/></a>
 
 </div>
 
@@ -39,14 +43,11 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-<a href="https://github.com/pufferfish3e/Luminent"><img src="assets/projects/Luminent.svg?v=3" width="49%" alt="Luminent"/></a>
-<a href="https://github.com/pufferfish3e/vibefy-mood-app"><img src="assets/projects/vibefy-mood-app.svg?v=3" width="49%" alt="vibefy-mood-app"/></a>
+<a href="https://github.com/pufferfish3e/supervised-learning"><img src="assets/projects/supervised-learning.svg?v=4" width="49%" alt="supervised-learning"/></a>
+<a href="https://github.com/pufferfish3e/unsupervised-learning"><img src="assets/projects/unsupervised-learning.svg?v=4" width="49%" alt="unsupervised-learning"/></a>
 
-<a href="https://github.com/pufferfish3e/BibleGuessr"><img src="assets/projects/BibleGuessr.svg?v=3" width="49%" alt="BibleGuessr"/></a>
-<a href="https://github.com/pufferfish3e/practiceme"><img src="assets/projects/practiceme.svg?v=3" width="49%" alt="practiceme"/></a>
-
-<a href="https://github.com/pufferfish3e/pomodoro"><img src="assets/projects/pomodoro.svg?v=3" width="49%" alt="pomodoro"/></a>
-<a href="https://github.com/pufferfish3e/data-cleaning-workflow"><img src="assets/projects/data-cleaning-workflow.svg?v=3" width="49%" alt="data-cleaning-workflow"/></a>
+<a href="https://github.com/pufferfish3e/data-cleaning-workflow"><img src="assets/projects/data-cleaning-workflow.svg?v=4" width="49%" alt="data-cleaning-workflow"/></a>
+<a href="https://github.com/pufferfish3e/b25_hackathon"><img src="assets/projects/b25_hackathon.svg?v=4" width="49%" alt="b25_hackathon"/></a>
 
 </div>
 
@@ -56,8 +57,8 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-<a href="https://github.com/pufferfish3e"><img src="assets/stats.svg?v=1" width="49%" alt="github activity: 557 commits, 89 pull requests, 18 repositories, 8 followers"/></a>
-<a href="https://github.com/pufferfish3e?tab=repositories"><img src="assets/langs.svg?v=1" width="49%" alt="most used languages: TypeScript 36%, Python 29%, Jupyter Notebook 21%, HTML 7%, CSS 7%"/></a>
+<a href="https://github.com/pufferfish3e"><img src="assets/stats.svg?v=2" width="49%" alt="github activity: 557 commits, 89 pull requests, 18 repositories, 8 followers"/></a>
+<a href="https://github.com/pufferfish3e?tab=repositories"><img src="assets/langs.svg?v=2" width="49%" alt="most used languages: TypeScript 36%, Python 29%, Jupyter Notebook 21%, HTML 7%, CSS 7%"/></a>
 
 <br/><br/>
 
@@ -81,6 +82,6 @@ Open to internships, collaborations and good conversations.
 
 <br/>
 
-<img src="assets/ocean.svg" width="100%" alt="an animated ocean tank with swaying seaweed, bubbles, a shoal of fish, a peeking creeper, and a pufferfish that puffs up"/>
+<img src="assets/ocean.svg?v=2" width="100%" alt="an animated ocean tank with swaying seaweed, bubbles, a shoal of fish, a peeking creeper, and a pufferfish that puffs up"/>
 
 </div>
