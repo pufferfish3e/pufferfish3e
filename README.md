@@ -8,7 +8,7 @@
 
 <div align="center"><img src="assets/divider.svg" width="92%" alt=""/></div>
 
-## about
+## About
 
 <img align="right" src="assets/data-analysis.gif" width="300" alt="animated illustration of a person working through analytics dashboards"/>
 
@@ -27,7 +27,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center"><img src="assets/divider.svg" width="92%" alt=""/></div>
 
-## stack
+## Stack
 
 <div align="center">
 
@@ -35,7 +35,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 </div>
 
-## things i've built
+## Selected work
 
 <div align="center">
 
@@ -52,12 +52,12 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center"><img src="assets/divider.svg" width="92%" alt=""/></div>
 
-## github, in numbers
+## GitHub, in numbers
 
 <div align="center">
 
-<a href="https://github.com/pufferfish3e"><img src="https://github-readme-stats.vercel.app/api?username=pufferfish3e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff4b4b&icon_color=ff4b4b&text_color=9f9f9f&ring_color=ff4b4b" width="49%" alt="github stats"/></a>
-<a href="https://github.com/pufferfish3e?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pufferfish3e&layout=compact&hide_border=true&bg_color=00000000&title_color=ff4b4b&text_color=9f9f9f" width="41%" alt="most used languages"/></a>
+<a href="https://github.com/pufferfish3e"><img src="https://github-readme-stats.vercel.app/api?username=pufferfish3e&show_icons=true&hide_border=true&bg_color=00000000&title_color=ff3b30&icon_color=ff3b30&text_color=8e8e93&ring_color=ff3b30" width="49%" alt="github stats"/></a>
+<a href="https://github.com/pufferfish3e?tab=repositories"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=pufferfish3e&layout=compact&hide_border=true&bg_color=00000000&title_color=ff3b30&text_color=8e8e93" width="41%" alt="most used languages"/></a>
 
 <br/><br/>
 
@@ -73,7 +73,7 @@ I'll forget I made in a week. Off-keyboard: minecraft, badminton, sleep.
 
 <div align="center">
 
-## let's talk
+## Say hello
 
 Open to internships, collaborations and good conversations.
 

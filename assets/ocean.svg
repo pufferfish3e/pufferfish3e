@@ -1,27 +1,27 @@
 <svg width="1200" height="220" viewBox="0 0 1200 220" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="sea" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#140a0d"/>
-      <stop offset="1" stop-color="#241016"/>
+      <stop offset="0" stop-color="#0d0d11"/>
+      <stop offset="1" stop-color="#1a1a20"/>
     </linearGradient>
   </defs>
   <rect width="1200" height="220" rx="16" fill="url(#sea)"/>
 
   <!-- sand -->
-  <path d="M0 190 Q 300 175 600 190 T 1200 185 L 1200 220 L 0 220 Z" fill="#2e161c"/>
+  <path d="M0 190 Q 300 175 600 190 T 1200 185 L 1200 220 L 0 220 Z" fill="#1c1c22"/>
 
   <!-- seaweed -->
   <g stroke-linecap="round" fill="none">
-    <path d="M120 195 Q 110 160 122 130 Q 132 105 124 80" stroke="#7a2530" stroke-width="7">
+    <path d="M120 195 Q 110 160 122 130 Q 132 105 124 80" stroke="#3e4650" stroke-width="7">
       <animate attributeName="d" values="M120 195 Q 110 160 122 130 Q 132 105 124 80;M120 195 Q 130 160 118 130 Q 108 105 118 80;M120 195 Q 110 160 122 130 Q 132 105 124 80" dur="5s" repeatCount="indefinite"/>
     </path>
-    <path d="M155 195 Q 148 165 158 140 Q 166 120 160 100" stroke="#9c3341" stroke-width="6">
+    <path d="M155 195 Q 148 165 158 140 Q 166 120 160 100" stroke="#525c68" stroke-width="6">
       <animate attributeName="d" values="M155 195 Q 148 165 158 140 Q 166 120 160 100;M155 195 Q 164 165 152 140 Q 144 120 152 100;M155 195 Q 148 165 158 140 Q 166 120 160 100" dur="4s" repeatCount="indefinite"/>
     </path>
-    <path d="M1060 195 Q 1050 155 1064 120 Q 1074 95 1066 70" stroke="#7a2530" stroke-width="7">
+    <path d="M1060 195 Q 1050 155 1064 120 Q 1074 95 1066 70" stroke="#3e4650" stroke-width="7">
       <animate attributeName="d" values="M1060 195 Q 1050 155 1064 120 Q 1074 95 1066 70;M1060 195 Q 1072 155 1058 120 Q 1048 95 1058 70;M1060 195 Q 1050 155 1064 120 Q 1074 95 1066 70" dur="6s" repeatCount="indefinite"/>
     </path>
-    <path d="M1100 195 Q 1094 170 1102 148" stroke="#9c3341" stroke-width="5">
+    <path d="M1100 195 Q 1094 170 1102 148" stroke="#525c68" stroke-width="5">
       <animate attributeName="d" values="M1100 195 Q 1094 170 1102 148;M1100 195 Q 1108 170 1098 148;M1100 195 Q 1094 170 1102 148" dur="3.5s" repeatCount="indefinite"/>
     </path>
   </g>
@@ -37,7 +37,7 @@
   <!-- small fish shoal -->
   <g>
     <animateTransform attributeName="transform" type="translate" values="-120 0; 1320 0" dur="18s" repeatCount="indefinite"/>
-    <g fill="#ff8080">
+    <g fill="#8e8e93">
       <path d="M0 70 Q 12 60 26 70 Q 12 80 0 70 Z M0 70 L -10 62 L -10 78 Z"/>
       <path d="M40 92 Q 52 82 66 92 Q 52 102 40 92 Z M40 92 L 30 84 L 30 100 Z" opacity="0.8"/>
       <path d="M18 116 Q 30 106 44 116 Q 30 126 18 116 Z M18 116 L 8 108 L 8 124 Z" opacity="0.6"/>
@@ -49,26 +49,26 @@
     <animateTransform attributeName="transform" type="translate" values="1300 95; 600 85; 600 85; -150 100" keyTimes="0;0.35;0.65;1" dur="20s" repeatCount="indefinite"/>
     <g>
       <animateTransform attributeName="transform" type="scale" values="1;1;1.55;1.55;1;1" keyTimes="0;0.38;0.44;0.58;0.64;1" dur="20s" repeatCount="indefinite" additive="sum"/>
-      <g stroke="#c1121f" stroke-width="2.5" stroke-linecap="round" opacity="0">
+      <g stroke="#e0352b" stroke-width="2.5" stroke-linecap="round" opacity="0">
         <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.38;0.44;0.58;0.64;1" dur="20s" repeatCount="indefinite"/>
         <line x1="0" y1="-26" x2="0" y2="-34"/><line x1="18" y1="-18" x2="24" y2="-24"/>
         <line x1="26" y1="0" x2="34" y2="0"/><line x1="18" y1="18" x2="24" y2="24"/>
         <line x1="0" y1="26" x2="0" y2="34"/><line x1="-18" y1="18" x2="-24" y2="24"/>
         <line x1="-26" y1="0" x2="-34" y2="0"/><line x1="-18" y1="-18" x2="-24" y2="-24"/>
       </g>
-      <circle r="26" fill="#ff4b4b"/>
-      <ellipse cx="0" cy="9" rx="17" ry="11" fill="#ffd7c2" opacity="0.9"/>
-      <circle cx="-9" cy="-5" r="4.5" fill="#fff"/><circle cx="-10.5" cy="-4.5" r="2.2" fill="#140a0d"/>
-      <circle cx="9" cy="-5" r="4.5" fill="#fff"/><circle cx="7.5" cy="-4.5" r="2.2" fill="#140a0d"/>
-      <path d="M-4 8 Q 0 11 4 8" stroke="#140a0d" stroke-width="1.8" fill="none" stroke-linecap="round"/>
-      <path d="M26 -2 L 40 -10 L 38 4 Z" fill="#c1121f">
+      <circle r="26" fill="#ff3b30"/>
+      <ellipse cx="0" cy="9" rx="17" ry="11" fill="#ffd9d5" opacity="0.9"/>
+      <circle cx="-9" cy="-5" r="4.5" fill="#fff"/><circle cx="-10.5" cy="-4.5" r="2.2" fill="#1c1c1e"/>
+      <circle cx="9" cy="-5" r="4.5" fill="#fff"/><circle cx="7.5" cy="-4.5" r="2.2" fill="#1c1c1e"/>
+      <path d="M-4 8 Q 0 11 4 8" stroke="#1c1c1e" stroke-width="1.8" fill="none" stroke-linecap="round"/>
+      <path d="M26 -2 L 40 -10 L 38 4 Z" fill="#e0352b">
         <animateTransform attributeName="transform" type="rotate" values="0 26 -2; 16 26 -2; 0 26 -2" dur="0.9s" repeatCount="indefinite"/>
       </path>
     </g>
   </g>
 
   <!-- rising bubbles -->
-  <g fill="none" stroke="#ff8080" stroke-width="1.4" opacity="0.65">
+  <g fill="none" stroke="#aeaeb2" stroke-width="1.4" opacity="0.65">
     <circle cx="200" cy="200" r="4"><animate attributeName="cy" values="200;20" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.65;0" dur="9s" repeatCount="indefinite"/></circle>
     <circle cx="480" cy="200" r="3"><animate attributeName="cy" values="200;30" dur="7s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.65;0" dur="7s" begin="2s" repeatCount="indefinite"/></circle>
     <circle cx="750" cy="200" r="5"><animate attributeName="cy" values="200;25" dur="11s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.65;0" dur="11s" begin="1s" repeatCount="indefinite"/></circle>

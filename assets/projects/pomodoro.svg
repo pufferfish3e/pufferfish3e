@@ -1,22 +1,30 @@
-<svg width="560" height="150" viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg" font-family="'Courier New', monospace">
+<svg width="560" height="150" viewBox="0 0 560 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" font-family="'SF Pro Display','SF Pro Text',-apple-system,'Helvetica Neue',Arial,sans-serif">
   <defs>
-    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#160b0e"/><stop offset="1" stop-color="#200f14"/>
+    <radialGradient id="gA" cx="0.2" cy="0.2" r="0.9">
+      <stop offset="0" stop-color="#3a3a44"/><stop offset="1" stop-color="#0d0d11" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="sheen" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.14"/>
+      <stop offset="0.4" stop-color="#ffffff" stop-opacity="0.03"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.05"/>
     </linearGradient>
+    <filter id="soften" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="14"/></filter>
+    <clipPath id="panel"><rect x="10" y="10" width="540" height="130" rx="26"/></clipPath>
+    <g id="wp">
+      <rect width="560" height="150" fill="#0d0d11"/>
+      <rect width="560" height="150" fill="url(#gA)"/>
+      <circle cx="60" cy="30" r="90" fill="#ff3b30" opacity="0.10"/>
+      <circle cx="400" cy="30" r="70" fill="#8e8e93" opacity="0.08"/>
+    </g>
   </defs>
-  <rect x="1" y="1" width="558" height="148" rx="12" fill="url(#g)" stroke="#3a1b21" stroke-width="1.5"/>
-  <rect x="1" y="1" width="558" height="148" rx="12" fill="none" stroke="#ff4b4b" stroke-width="1.5" stroke-dasharray="60 1356" opacity="0.9">
-    <animate attributeName="stroke-dashoffset" values="0;-1416" dur="6s" repeatCount="indefinite"/>
-  </rect>
-  <circle cx="36" cy="38" r="9" fill="none" stroke="#ff4b4b" stroke-width="2"/>
-  <g stroke="#ff4b4b" stroke-width="1.6" stroke-linecap="round">
-    <line x1="36" y1="25" x2="36" y2="21"/><line x1="36" y1="51" x2="36" y2="55"/>
-    <line x1="23" y1="38" x2="19" y2="38"/><line x1="49" y1="38" x2="53" y2="38"/>
-  </g>
-  <text x="58" y="44" font-size="20" font-weight="bold" fill="#f5ede9">pomodoro</text>
-  <text x="34" y="82" font-size="14" fill="#c2aaa6">A pomodoro timer that looks good enough</text>
-  <text x="34" y="102" font-size="14" fill="#c2aaa6">to make you actually take breaks.</text>
-  <circle cx="40" cy="126" r="5" fill="#663399"/>
-  <text x="52" y="131" font-size="13" fill="#8f7a77">CSS</text>
-  <text x="526" y="131" font-size="13" fill="#ff4b4b" text-anchor="end">view →</text>
+  <use href="#wp"/>
+  <g clip-path="url(#panel)"><use href="#wp" filter="url(#soften)" opacity="0.95"/></g>
+  <rect x="10" y="10" width="540" height="130" rx="26" fill="url(#sheen)"/>
+  <rect x="10.5" y="10.5" width="539" height="129" rx="25.5" fill="none" stroke="#ffffff" stroke-opacity="0.26"/>
+  <path d="M40 10.5 H 460" stroke="#ffffff" stroke-opacity="0.32" stroke-width="1" stroke-linecap="round"/>
+  <text x="38" y="52" font-size="20" font-weight="600" fill="#f5f5f7">pomodoro</text>
+  <text x="38" y="84" font-size="13.5" fill="#aeaeb2">A pomodoro timer that looks good enough</text>
+  <text x="38" y="104" font-size="13.5" fill="#aeaeb2">to make you actually take breaks.</text>
+  <circle cx="44" cy="124" r="4.5" fill="#663399"/>
+  <text x="56" y="128.5" font-size="12.5" fill="#8e8e93">CSS</text>
 </svg>
