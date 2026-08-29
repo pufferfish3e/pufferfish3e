@@ -40,19 +40,19 @@
   <rect x="63" y="149" width="594" height="14" rx="7" fill="#ffffff" fill-opacity="0.08"/>
   <clipPath id="barclip"><rect x="64" y="150" width="592" height="12" rx="6"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect x="64.0" y="150" width="222.0" height="12" fill="#3178c6"/>
-    <rect x="286.0" y="150" width="185.0" height="12" fill="#3572A5"/>
-    <rect x="471.0" y="150" width="111.0" height="12" fill="#DA5B0B"/>
-    <rect x="582.0" y="150" width="37.0" height="12" fill="#e34c26"/>
-    <rect x="619.0" y="150" width="37.0" height="12" fill="#663399"/>
+    <rect x="64.0" y="150" width="208.9" height="12" fill="#3178c6"/>
+    <rect x="272.9" y="150" width="174.1" height="12" fill="#3572A5"/>
+    <rect x="447.1" y="150" width="104.5" height="12" fill="#DA5B0B"/>
+    <rect x="551.5" y="150" width="69.6" height="12" fill="#e34c26"/>
+    <rect x="621.2" y="150" width="34.8" height="12" fill="#663399"/>
   </g>
-  <circle cx="70" cy="211" r="6" fill="#3178c6"/><text x="86" y="216" font-size="15" fill="#d1d1d6">TypeScript <tspan fill="#8e8e93">38%</tspan></text>
-  <circle cx="270" cy="211" r="6" fill="#3572A5"/><text x="286" y="216" font-size="15" fill="#d1d1d6">Python <tspan fill="#8e8e93">31%</tspan></text>
-  <circle cx="470" cy="211" r="6" fill="#DA5B0B"/><text x="486" y="216" font-size="15" fill="#d1d1d6">Jupyter Notebook <tspan fill="#8e8e93">19%</tspan></text>
-  <circle cx="70" cy="251" r="6" fill="#e34c26"/><text x="86" y="256" font-size="15" fill="#d1d1d6">HTML <tspan fill="#8e8e93">6%</tspan></text>
+  <circle cx="70" cy="211" r="6" fill="#3178c6"/><text x="86" y="216" font-size="15" fill="#d1d1d6">TypeScript <tspan fill="#8e8e93">35%</tspan></text>
+  <circle cx="270" cy="211" r="6" fill="#3572A5"/><text x="286" y="216" font-size="15" fill="#d1d1d6">Python <tspan fill="#8e8e93">29%</tspan></text>
+  <circle cx="470" cy="211" r="6" fill="#DA5B0B"/><text x="486" y="216" font-size="15" fill="#d1d1d6">Jupyter Notebook <tspan fill="#8e8e93">18%</tspan></text>
+  <circle cx="70" cy="251" r="6" fill="#e34c26"/><text x="86" y="256" font-size="15" fill="#d1d1d6">HTML <tspan fill="#8e8e93">12%</tspan></text>
   <circle cx="270" cy="251" r="6" fill="#663399"/><text x="286" y="256" font-size="15" fill="#d1d1d6">CSS <tspan fill="#8e8e93">6%</tspan></text>
   <path d="M64 302 H 656" stroke="#ffffff" stroke-opacity="0.1"/>
-  <text x="64" y="344" font-size="14" fill="#8e8e93">18 original repositories</text>
+  <text x="64" y="344" font-size="14" fill="#8e8e93">19 original repositories</text>
   <rect x="486" y="320" width="170" height="38" rx="19" fill="url(#btn)" stroke="#ff4b4b" stroke-opacity="0.45"/>
   <text x="558" y="344" font-size="14.5" fill="#ffb3b3" text-anchor="middle">Browse Repos</text>
   <text x="640" y="344" font-size="15" fill="#ff6b6b" text-anchor="middle">&#8594;</text>
